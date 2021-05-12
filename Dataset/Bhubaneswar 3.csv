@@ -1,0 +1,92 @@
+Name,Date time,Maximum Temperature,Minimum Temperature,Temperature,Wind Chill,Heat Index,Precipitation,Snow,Snow Depth,Wind Speed,Wind Direction,Wind Gust,Visibility,Cloud Cover,Relative Humidity,Conditions
+"Bhubaneswar, OD, India",04-02-2020,37.3,26,30.5,,51.9,0,0,0,19.6,144.42,,4.1,16.7,74.31,Clear
+"Bhubaneswar, OD, India",04-03-2020,37,25.9,30.8,,50.4,0,0,0,22.3,172,,4.7,20.7,63.66,Clear
+"Bhubaneswar, OD, India",04-04-2020,32,26,28.1,,38,0,0,0,11.2,121.13,,3.9,47.1,77.04,Partially cloudy
+"Bhubaneswar, OD, India",04-05-2020,34.2,26,29.4,,42,0,0,0,17,111.33,,3.3,51.5,79.69,Partially cloudy
+"Bhubaneswar, OD, India",04-06-2020,37.4,26,30.4,,43.8,0,0,0,15.4,119.63,,3.7,19.2,73.93,Clear
+"Bhubaneswar, OD, India",04-07-2020,37,25.9,30.2,,45.3,0,0,0,18.4,173.88,,4.3,37.5,73.22,Partially cloudy
+"Bhubaneswar, OD, India",04-08-2020,34.5,25,29.6,,43.4,0.8,0,0,18.4,141.58,,4.9,63.3,66.93,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",04-09-2020,35.2,22,28.3,,37.3,0,0,0,27.7,190.21,,5,31.6,61.56,Partially cloudy
+"Bhubaneswar, OD, India",04-10-2020,37,24.9,30,,42.1,0,0,0,16.6,174.83,,4.8,29.4,72.82,Partially cloudy
+"Bhubaneswar, OD, India",04-11-2020,39,26,30.8,,41.7,0,0,0,25.9,127.59,,4.9,34,65.33,Partially cloudy
+"Bhubaneswar, OD, India",04-12-2020,39.2,25.9,31.1,,44.9,0,0,0,14.8,176.58,,4.4,33.7,69.05,Partially cloudy
+"Bhubaneswar, OD, India",04/13/2020,40,26.9,31.5,,43.7,0,0,0,20.5,191.83,,4.6,43.7,67.92,Partially cloudy
+"Bhubaneswar, OD, India",04/14/2020,39.5,26,31,,45.3,0,0,0,16.8,164.96,,4.7,31.3,72.59,Partially cloudy
+"Bhubaneswar, OD, India",04/15/2020,38.6,26.8,31,,45.4,0,0,0,18.4,188.67,,4.7,35.2,70.41,Partially cloudy
+"Bhubaneswar, OD, India",04/16/2020,38.1,26.8,31.2,,45.3,0,0,0,22.3,162.86,,4.8,23.6,67.53,Clear
+"Bhubaneswar, OD, India",04/17/2020,36.1,27,30.3,,52.5,0,0,0,25.9,182.38,,5,33.7,74.64,Partially cloudy
+"Bhubaneswar, OD, India",04/18/2020,35.6,23.4,29.2,,47,0.4,0,0,37.1,176.29,,4.6,58.7,76.45,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",04/19/2020,36,24,28.8,,50.5,28,0,0,22.6,188.13,,4.6,54.5,75.91,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",04/20/2020,36.2,26.7,31.9,,54.2,0,0,0,29.5,180.07,,5,56.4,72.97,Partially cloudy
+"Bhubaneswar, OD, India",04/21/2020,31.6,24,26.8,,40.2,18,0,0,16.6,105,,4.4,67.3,81.83,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",04/22/2020,33.8,24,28.2,,39.5,16,0,0,21.1,151.67,,4.7,63,80.66,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",04/23/2020,36.1,25,29.2,,44.8,0.4,0,0,27.7,143.21,,4.8,55.1,76.72,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",04/24/2020,35.7,23.2,28.7,,42.5,50.83,0,0,46.4,130.68,,4.4,59.7,77.26,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",04/25/2020,30,23,25.8,,35.7,21,0,0,22.3,186.75,,4.1,68.6,86.13,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",04/26/2020,33,25,28.1,,40.4,30,0,0,22.3,126,,4.6,52.4,79.71,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",04/27/2020,33.3,24,27.9,,38.3,0,0,0,22.3,159.38,,5.3,50.1,73.48,Partially cloudy
+"Bhubaneswar, OD, India",04/28/2020,33.2,24.5,28.4,,38.3,2,0,0,18.4,99.25,,4.6,49.7,76.47,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",04/29/2020,35,21,27.3,,43.9,43.9,0,0,37.1,139.58,,4.9,50.7,73.91,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",04/30/2020,34,22.1,28.3,,40.8,3,0,0,18.4,136.25,,4.9,39.2,78.54,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",05-01-2020,34.5,22,27.8,,43.7,18.43,0,0,24.1,177.92,,4.2,55.3,82.97,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",05-02-2020,34.9,21.9,28.3,,42.9,0,0,0,14.8,163.63,,4.1,13.9,77.93,Clear
+"Bhubaneswar, OD, India",05-03-2020,33.4,28,30.2,,44.4,1,0,0,22.3,173.86,,4.4,79.6,80.27,"Rain, Overcast"
+"Bhubaneswar, OD, India",05-04-2020,33.8,25,29.2,,43.1,7,0,0,25.9,136.05,,4.5,56.3,79.41,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",05-05-2020,35,27,30.3,,45.6,0,0,0,20.5,167.29,,4.6,60.9,78.67,Partially cloudy
+"Bhubaneswar, OD, India",05-06-2020,33,24,28.6,,36.6,7.72,0,0,15.4,142.08,,4.6,49.1,74.4,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",05-07-2020,34,26,29.3,,37.7,0,0,0,16.6,163,,4.9,35.3,71.64,Partially cloudy
+"Bhubaneswar, OD, India",05-08-2020,35.4,25,30.2,,46.7,0,0,0,18.4,134.04,,4.7,39,77.39,Partially cloudy
+"Bhubaneswar, OD, India",05-09-2020,36.6,24,30.3,,44.5,0,0,0,14.8,140.21,,5.1,31.1,68.86,Partially cloudy
+"Bhubaneswar, OD, India",05-10-2020,36.6,24.3,30.2,,48.6,14,0,0,25.9,184.54,,4.7,39.2,74.98,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",05-11-2020,35.2,23.7,30.1,,39.4,16,0,0,14.8,171.16,,5,48.6,67.14,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",05-12-2020,37,27,30.7,,44.7,0,0,0,11.2,130.46,,4.9,46.2,73.82,Partially cloudy
+"Bhubaneswar, OD, India",05/13/2020,36,26,30.2,,41.6,0,0,0,18.4,134.17,,4.8,24.7,70.54,Clear
+"Bhubaneswar, OD, India",05/14/2020,37.1,26.9,31,,42,0,0,0,24.1,159.71,,5.4,16.9,70.43,Clear
+"Bhubaneswar, OD, India",05/15/2020,37,26.8,31.2,,41.7,0,0,0,18.4,179,,5.3,16.2,70.63,Clear
+"Bhubaneswar, OD, India",05/16/2020,38.1,28,31.8,,46.2,0,0,0,18.4,193.29,,5.5,37.9,69.86,Partially cloudy
+"Bhubaneswar, OD, India",05/17/2020,37.9,28,31.3,,45.4,0,0,0,17,112.48,,5.6,45.7,69.76,Partially cloudy
+"Bhubaneswar, OD, India",05/18/2020,37.5,26,31.4,,43.4,0,0,0,16.6,112.78,,5.4,49.2,70.81,Partially cloudy
+"Bhubaneswar, OD, India",05/19/2020,32,24,28.5,,40.4,28.5,0,0,25.9,108.33,,4.2,83.6,84.37,"Rain, Overcast"
+"Bhubaneswar, OD, India",05/20/2020,26,21,23.3,,,90.06,0,0,55.4,307.27,64.8,2.8,87.6,89.97,"Rain, Overcast"
+"Bhubaneswar, OD, India",05/21/2020,35,22.6,29.6,,42.7,0,0,0,11.2,154.57,,4.3,52.7,73.28,Partially cloudy
+"Bhubaneswar, OD, India",05/22/2020,35,27.8,30.4,,49.1,0,0,0,22.3,151.84,,3.5,58.1,85.05,Partially cloudy
+"Bhubaneswar, OD, India",05/23/2020,34.3,28.7,30.9,,47.1,0,0,0,28.8,165.95,,4.4,69,80.21,Partially cloudy
+"Bhubaneswar, OD, India",05/24/2020,34,28.8,30.6,,47.5,0,0,0,25.9,181.43,,5,86.5,81.73,Overcast
+"Bhubaneswar, OD, India",05/25/2020,33.6,28.9,30.3,,46.1,0,0,0,37.1,176.71,,5.1,85.1,81.62,Overcast
+"Bhubaneswar, OD, India",05/26/2020,33.7,28.9,30.3,,45.9,0,0,0,33.5,181.67,,4.9,59.6,80.64,Partially cloudy
+"Bhubaneswar, OD, India",05/27/2020,35.2,28.8,31,,46.3,0,0,0,38.9,178.88,,5.1,29.3,74.61,Partially cloudy
+"Bhubaneswar, OD, India",05/28/2020,32,27,29.2,,42.8,0.2,0,0,27.8,151.08,,4.7,83,83.79,"Rain, Overcast"
+"Bhubaneswar, OD, India",05/29/2020,34,21,27.9,,47.3,97.89,0,0,33.5,154.92,,4.7,58.9,84.63,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",05/30/2020,34,23.1,29.5,,45.3,15.97,0,0,16.6,198.35,,5.4,46.7,78.04,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",05/31/2020,36,28,31.4,,49.9,0,0,0,25.9,168.29,,4.9,42.3,78.49,Partially cloudy
+"Bhubaneswar, OD, India",06-01-2020,34,25,28.9,,47.7,2,0,0,29.8,149.96,,4.3,61.7,86.96,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",06-02-2020,35.9,25,28.5,,48.8,7.69,0,0,31.7,178.25,,4.2,58.2,85.92,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",06-03-2020,35,25,28.9,,48.9,11,0,0,16,157.54,,4.2,57.7,82.76,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",06-04-2020,36,25.8,30.1,,49.9,0,0,0,29.5,154.5,,5,50.9,80.03,Partially cloudy
+"Bhubaneswar, OD, India",06-05-2020,35,28,30.8,,47.6,0,0,0,29.5,175.96,,4.8,54.8,80.92,Partially cloudy
+"Bhubaneswar, OD, India",06-06-2020,37,28.9,31.3,,49.9,0,0,0,32.9,193.79,,4.6,60.1,77.4,Partially cloudy
+"Bhubaneswar, OD, India",06-07-2020,34,27.9,30.3,,45.3,0,0,0,20.5,157.38,,5.1,52.7,79.34,Partially cloudy
+"Bhubaneswar, OD, India",06-08-2020,35,26,29.3,,47.3,3,0,0,29.5,207.08,,4.2,66.4,84.69,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",06-09-2020,35.9,26,29.9,,48,11,0,0,14.8,154.5,,4.1,47.2,79.68,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",06-10-2020,36.1,26,29.4,,48,7.81,0,0,81.7,91.17,,4.5,54.7,85.32,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",06-11-2020,30,26.8,28.1,,40.5,6.99,0,0,14.8,181.29,,3.8,65.9,93.94,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",06-12-2020,31,26,28.2,,42.4,25.43,0,0,11.2,118.88,,3.7,72.2,93.77,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",06/13/2020,33.4,27,29.1,,44.8,30.35,0,0,14.8,154.38,,4,66.8,89.55,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",06/14/2020,29,26.9,27.9,,39.8,7.02,0,0,14.8,166.63,,3.2,81.2,99.73,"Rain, Overcast"
+"Bhubaneswar, OD, India",06/15/2020,29.9,27,28.5,,41.5,20.43,0,0,18.4,154.5,,3.7,74.9,96.96,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",06/16/2020,30.8,26,28.3,,41.5,0.4,0,0,20.5,181.42,,4.1,75.4,91.75,"Rain, Overcast"
+"Bhubaneswar, OD, India",06/17/2020,32.2,27,29.5,,43.9,0,0,0,35.3,190.96,,4.1,75.3,85.49,Overcast
+"Bhubaneswar, OD, India",06/18/2020,32,27,28.9,,42.3,1,0,0,27.7,182.08,,4.5,80.6,87.55,"Rain, Overcast"
+"Bhubaneswar, OD, India",06/19/2020,35,27,30.6,,47,0,0,0,18.4,177.38,,4.9,56.6,81.71,Partially cloudy
+"Bhubaneswar, OD, India",06/20/2020,33,28,30.1,,43.9,26.3,0,0,14.8,208.09,,4.8,76.3,82.35,"Rain, Overcast"
+"Bhubaneswar, OD, India",06/21/2020,30,27,28.6,,38.9,25.7,0,0,22.3,172.63,,4.4,68.6,89.01,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",06/22/2020,35,27.2,30.8,,45,0,0,0,24.1,168.63,,4.9,58.8,76.82,Partially cloudy
+"Bhubaneswar, OD, India",06/23/2020,35,28.8,30.8,,49.6,2,0,0,27.7,161.5,,4.2,62.9,83.47,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",06/24/2020,36,28,31.7,,50.2,0,0,0,24.1,163.92,,4.8,46,79.14,Partially cloudy
+"Bhubaneswar, OD, India",06/25/2020,35,28.2,31.2,,48.8,0,0,0,25.9,168.71,,4.8,43,78.65,Partially cloudy
+"Bhubaneswar, OD, India",06/26/2020,36,27.8,31,,48.2,1,0,0,25.9,179.33,,4.8,54.6,78.77,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",06/27/2020,36.2,27,30.4,,50.9,3,0,0,24.1,158.25,,4.7,61.6,80.51,"Rain, Partially cloudy"
+"Bhubaneswar, OD, India",06/28/2020,34,25,27.7,,48,35,0,0,29.5,211.42,,4.3,83.8,91.92,"Rain, Overcast"
+"Bhubaneswar, OD, India",06/29/2020,32.1,24.9,27.6,,44.3,7,0,0,18.4,203.26,,4.4,80.2,92.05,"Rain, Overcast"
+"Bhubaneswar, OD, India",06/30/2020,35,26,30.3,,47.3,0,0,0,25.9,149.24,,4.8,51.1,80.79,Partially cloudy
+"Bhubaneswar, OD, India",07-01-2020,36,27,31.5,,50.2,3,0,0,24.1,176.5,,5.1,47.5,79.36,"Rain, Partially cloudy"
